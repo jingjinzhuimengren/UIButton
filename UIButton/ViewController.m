@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
+    self.title = @"创建分支";
     self.title = @"按钮";
     
     //1.创建按钮,有多种方法来创建,经常使用的方法是buttonWithType
